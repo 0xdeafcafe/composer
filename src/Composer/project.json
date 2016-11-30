@@ -1,0 +1,41 @@
+{
+	"title": "Composer",
+	"authors": [
+		"Alex Forbes-Reed (0xdeafcafe)"
+	],
+	"description": "App for modifying Blam Cache Files",
+	"version": "1.0.0-*",
+	"packOptions": {
+		"summary": "App for modifying Blam Cache Files",
+		"repository": {
+			"type": "git",
+			"url": "https://github.com/0xdeafcafe/composer"
+		},
+		"tags": [
+			"halo"
+		]
+	},
+	"buildOptions": {
+		"emitEntryPoint": true
+	},
+
+	"dependencies": {
+		"Microsoft.NETCore.App": {
+			"type": "platform",
+			"version": "1.1.0"
+		},
+		"Blamite": "1.0.0",
+		"Didact": "1.0.0-beta5",
+		"Newtonsoft.Json": "9.0.1"
+	},
+
+	"frameworks": {
+		"netcoreapp1.1": {
+			"imports": "dnxcore50"
+		}
+	},
+
+	"tooling": {
+		"defaultNamespace": "Composer"
+	}
+}
