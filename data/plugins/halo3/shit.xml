@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<plugin game="Halo3" baseSize="0xA4">
+	<!-- Automatically generated plugin -->
+	<revisions>
+		<revision author="Assembly" version="1">Generated plugin from scratch.</revision>
+	</revisions>
+	<tagRef name="Unknown" offset="0x0" visible="true" />
+	<tagRef name="Unknown" offset="0x10" visible="true" />
+	<float32 name="Unknown" offset="0x20" visible="false" />
+	<float32 name="Unknown" offset="0x24" visible="false" />
+	<float32 name="Unknown" offset="0x28" visible="false" />
+	<float32 name="Unknown" offset="0x2C" visible="false" />
+	<float32 name="Unknown" offset="0x30" visible="false" />
+	<float32 name="Unknown" offset="0x34" visible="false" />
+	<float32 name="Unknown" offset="0x38" visible="false" />
+	<float32 name="Unknown" offset="0x3C" visible="false" />
+	<float32 name="Unknown" offset="0x40" visible="false" />
+	<colorf name="Color" offset="0x44" format="rgb" visible="true" />
+	<float32 name="Unknown" offset="0x50" visible="false" />
+	<colorf name="Color" offset="0x54" format="rgb" visible="true" />
+	<float32 name="Unknown" offset="0x60" visible="false" />
+	<colorf name="Color" offset="0x64" format="rgb" visible="true" />
+	<float32 name="Unknown" offset="0x70" visible="false" />
+	<colorf name="Color" offset="0x74" format="rgb" visible="true" />
+	<float32 name="Unknown" offset="0x80" visible="false" />
+	<colorf name="Color" offset="0x84" format="rgb" visible="true" />
+	<float32 name="Unknown" offset="0x90" visible="false" />
+	<colorf name="Color" offset="0x94" format="rgb" visible="true" />
+	<float32 name="Unknown" offset="0xA0" visible="false" />
+</plugin>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<plugin game="Halo3" baseSize="0xC">
+	<!-- Automatically generated plugin -->
+	<revisions>
+		<revision author="-DeToX-" version="1">Created layout of plugin</revision>
+		<revision author="Lord Zedd" version="2">Done</revision>
+	</revisions>
+	<comment title="Lighting Variables">Each chunk corresponds to an object;
+0. Biped
+1. Vehicle
+2. Weapon
+3. Equipment
+4. Terminal
+5. Projectile
+6. Scenery
+7. Machine
+8. Control
+9. Sound Scenery
+10. Crate
+11. Creature
+12. Giant
+13. Effect Scenery</comment>
+	<reflexive name="Lighting Variables" offset="0x0" visible="true" entrySize="0x4">
+		<float32 name="Lightmap Brightness Offset" offset="0x0" visible="true" />
+	</reflexive>
+</plugin>
