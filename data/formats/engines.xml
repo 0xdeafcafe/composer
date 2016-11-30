@@ -3,22 +3,6 @@
 	<!-- Blamite Engine Information Database -->
 	<!-- Only edit this if you know what you're doing! -->
 
-	<!-- Halo 3 Beta Builds -->
-	<engine name="Halo 3 Beta" version="09699.07.05.01.1534.delta">
-		<shortName>H3Beta</shortName>
-		<plugins>Halo3Beta</plugins>
-		<engineInfo>
-			<headerSize>0x800</headerSize>
-			<segmentAlignment>0x800</segmentAlignment>
-		</engineInfo>
-		<databases>
-			<stringIds type="stringIds" path="Formats/Halo3Beta/H3B_StringIDs.xml" />
-			<localeSymbols type="localeSymbols" path="Formats/Halo3Beta/H3B_LocaleSymbols.xml" />
-			<scripting type="scripting" path="Formats/Halo3Beta/H3B_Scripting.xml" />
-			<layouts type="layouts" path="Formats/Halo3Beta/Layouts" />
-		</databases>
-	</engine>
-
 	<!-- Halo 3 Builds -->
 	<engine name="Halo 3" version="11855.07.08.20.2317.halo3_ship">
 		<shortName>Halo3</shortName>
