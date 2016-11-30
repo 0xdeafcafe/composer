@@ -12,10 +12,10 @@
 			<segmentAlignment>0x1000</segmentAlignment>
 		</engineInfo>
 		<databases>
-			<localeSymbols type="localeSymbols" path="formats/halo3/h3_localesymbols.xml" />
-			<stringIds type="stringIds" path="formats/halo3/h3_stringids.xml" />
-			<scripting type="scripting" path="formats/halo3/h3_scripting.xml" />
-			<layouts type="layouts" path="formats/halo3/layouts" />
+			<localeSymbols type="localeSymbols" path="data/formats/halo3/h3_localesymbols.xml" />
+			<stringIds type="stringIds" path="data/formats/halo3/h3_stringids.xml" />
+			<scripting type="scripting" path="data/formats/halo3/h3_scripting.xml" />
+			<layouts type="layouts" path="data/formats/halo3/layouts" />
 		</databases>
 	</engine>
 
